@@ -1,6 +1,7 @@
 # hello-world
 Comenzando con Github
 
+PIC16F628A microcontrolador de 8 bits de uso académico 2025
 
 OBJETIVO:
 Es Instrumentar una válvula Mecánica para controlar obstrucción variable mediante
